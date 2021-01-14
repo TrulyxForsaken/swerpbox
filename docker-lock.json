@@ -22,25 +22,25 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"digest": "",
 				"service": "logs_data"
 			},
 			{
 				"name": "plexinc/pms-docker",
 				"tag": "latest",
-				"digest": "a2b9c8260747a2c51321143d25e0c24ad82488be19e9008c5eb1f2eba1c16b9f",
+				"digest": "",
 				"service": "plex"
 			},
 			{
 				"name": "swerpbox/plexpy",
 				"tag": "1.1.1",
-				"digest": "6c0bebc5c983c06595fc1248a9d534c3d1cdff24fb901ed2dd83ca2ba872226a",
+				"digest": "",
 				"service": "plexpy"
 			},
 			{
 				"name": "swerpbox/resilio-sync",
 				"tag": "1.1.1",
-				"digest": "52f0d1bbf2e35d6dcdb1bac16d99322581159cca82a12a6379fc1ce8de78a3e0",
+				"digest": "",
 				"service": "resilio"
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"digest": "",
 				"service": "server_data"
 			},
 			{
