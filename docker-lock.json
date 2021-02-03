@@ -22,7 +22,7 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"digest": "",
 				"service": "logs_data"
 			},
 			{
@@ -34,7 +34,7 @@
 			{
 				"name": "swerpbox/plexpy",
 				"tag": "1.1.1",
-				"digest": "",
+				"digest": "6c0bebc5c983c06595fc1248a9d534c3d1cdff24fb901ed2dd83ca2ba872226a",
 				"service": "plexpy"
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"digest": "",
 				"service": "server_data"
 			},
 			{
