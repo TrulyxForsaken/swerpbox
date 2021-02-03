@@ -22,7 +22,7 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "",
+				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
 				"service": "logs_data"
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"name": "tianon/true",
 				"tag": "latest",
-				"digest": "",
+				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
 				"service": "server_data"
 			},
 			{
