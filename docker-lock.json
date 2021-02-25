@@ -1,0 +1,66 @@
+{
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "swerpbox/cardigann",
+				"tag": "1.0.0",
+				"digest": "db7d4302f5a751c8600a5b9dc9c9e2788ed692d27d7195be067acb5f1928e785",
+				"service": "cardigann"
+			},
+			{
+				"name": "swerpbox/deluge",
+				"tag": "1.1.1",
+				"digest": "6c0bebc5c983c06595fc1248a9d534c3d1cdff24fb901ed2dd83ca2ba872226a",
+				"service": "deluge"
+			},
+			{
+				"name": "swerpbox/frontend",
+				"tag": "1.1.1",
+				"digest": "5a8a826d90d2aa212497b8eca8fd3b83196358e6c858f0e57ca221949c76640b",
+				"service": "frontend"
+			},
+			{
+				"name": "tianon/true",
+				"tag": "latest",
+				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"service": "logs_data"
+			},
+			{
+				"name": "plexinc/pms-docker",
+				"tag": "latest",
+				"digest": "1d094d952753dd968ef36aae98440aac4554d3dff4a2fa376d573d1e816c7a4b",
+				"service": "plex"
+			},
+			{
+				"name": "swerpbox/plexpy",
+				"tag": "1.1.1",
+				"digest": "6c0bebc5c983c06595fc1248a9d534c3d1cdff24fb901ed2dd83ca2ba872226a",
+				"service": "plexpy"
+			},
+			{
+				"name": "swerpbox/resilio-sync",
+				"tag": "1.1.1",
+				"digest": "52f0d1bbf2e35d6dcdb1bac16d99322581159cca82a12a6379fc1ce8de78a3e0",
+				"service": "resilio"
+			},
+			{
+				"name": "swerpbox/rutorrent",
+				"tag": "1.1.1",
+				"digest": "61db25ba0dfe864676a81f6521e005cd0481eebd8285b281ca8133811c4b8622",
+				"service": "rutorrent"
+			},
+			{
+				"name": "tianon/true",
+				"tag": "latest",
+				"digest": "009cce421096698832595ce039aa13fa44327d96beedb84282a69d3dbcf5a81b",
+				"service": "server_data"
+			},
+			{
+				"name": "swerpbox/sonarr",
+				"tag": "1.1.2",
+				"digest": "e88a4fcbe017f49bc5502abae05ea137aae32161c2d2738724cfa64f1fac7533",
+				"service": "sonarr"
+			}
+		]
+	}
+}
