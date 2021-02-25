@@ -28,7 +28,7 @@
 			{
 				"name": "plexinc/pms-docker",
 				"tag": "latest",
-				"digest": "c8a0d9b80f5c7b5a6a33fe2bfd9e85ec92667e37692611cae9e4a8d80ad489b4",
+				"digest": "1d094d952753dd968ef36aae98440aac4554d3dff4a2fa376d573d1e816c7a4b",
 				"service": "plex"
 			},
 			{
